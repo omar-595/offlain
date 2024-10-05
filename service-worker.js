@@ -1,12 +1,12 @@
 const cacheName = 'offline-cache-v1';
 const assetsToCache = [
     '/',
-    '/index.html',
-    '/styles.css',
-    '/script.js',
-    '/images/image1.png',
-    '/images/image2.png',
-    '/images/image3.png'
+    'index.html',
+    'styles.css',
+    'script.js',
+    'images/image1.png',
+    'images/image2.png',
+    'images/image3.png'
 ];
 
 // تثبيت Service Worker وتخزين الملفات في الكاش
